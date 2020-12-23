@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607443404 source:g:\algorithm\divideint\main.c
+	<stdio.h>
+	<stdlib.h>
+

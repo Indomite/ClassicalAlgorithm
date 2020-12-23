@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608267912 source:g:\algorithm\matrixchain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

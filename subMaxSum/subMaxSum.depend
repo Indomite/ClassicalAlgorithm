@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607500523 source:g:\algorithm\submaxsum\main.c
+	<stdio.h>
+	<stdlib.h>
+

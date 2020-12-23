@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608053987 source:g:\algorithm\01bag\main.c
+	<stdio.h>
+	<stdlib.h>
+
